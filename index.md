@@ -10,7 +10,7 @@ layout: default
 (Job applicant / ML engineer wannabe)
 
 ## Portfolio
-
+![RSNA2023](assets/rsna.png)
 
 ## Qualifications
 
