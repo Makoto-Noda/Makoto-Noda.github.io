@@ -31,12 +31,12 @@ layout: default
 ## Skills
 <table>
     <tr>
-        <th><a href="https://www.python.org/"><img src="https://github.com/Makoto-Noda/Makoto-Noda.github.io/blob/main/assets/python.png" alt="python"></a></th>
-        <th><a href="https://scikit-learn.org/"><img src="https://github.com/Makoto-Noda/Makoto-Noda.github.io/blob/main/assets/sklearn.png" alt="sklearn"></a></th>
-        <th><a href="https://pandas.pydata.org/"><img src="assets/pandas.png" alt="pandas"></a></th>
-        <th><a href="https://opencv.org/"><img src="assets/opencv.png" alt="opencv"></a></th>
-        <th>[![keras](assets/keras.png)](https://keras.io/)</th>
-        <th>[![keras](assets/tensorflow.png)](https://www.tensorflow.org/)</th>
+        <th><a href="https://www.python.org/"><img src="./assets/python.png" alt="python"></a></th>
+        <th><a href="https://scikit-learn.org/"><img src="./assets/sklearn.png" alt="sklearn"></a></th>
+        <th><a href="https://pandas.pydata.org/"><img src="./assets/pandas.png" alt="pandas"></a></th>
+        <th><a href="https://opencv.org/"><img src="./assets/opencv.png" alt="opencv"></a></th>
+        <th><a href="https://keras.io/"><img src="./assets/keras.png" alt="keras"></a></th>
+        <th><a href="https://www.tensorflow.org/"><img src="./assets/tensorflow.png" alt="tensorflow"></a></th>
     </tr>
 </table>
 
