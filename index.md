@@ -29,17 +29,5 @@ layout: default
 - マナビDX Quest 2023年度 第1ターム<br>ケーススタディ教育プログラムGold修了
 
 ## Skills
-<p>
-[![python](assets/python.png)](https://www.python.org/)
-[![sklearn](assets/sklearn.png)](https://scikit-learn.org/)
-[![pandas](assets/pandas.png)](https://pandas.pydata.org/)
-[![opencv](assets/opencv.png)](https://opencv.org/)
-[![keras](assets/keras.png)](https://keras.io/)
-[![keras](assets/tensorflow.png)](https://www.tensorflow.org/)
-</p>
+<a href="https://www.python.org/"><img src="assets/python.png" alt="python"></a> <a href="https://scikit-learn.org/"><img src="assets/sklearn.png" alt="sklearn"></a> <a href="https://pandas.pydata.org/"><img src="assets/pandas.png" alt="pandas"></a> <a href="https://opencv.org/"><img src="assets/opencv.png" alt="opencv"></a> <a href="https://keras.io/"><img src="assets/keras.png" alt="keras"></a> <a href="https://www.tensorflow.org/"><img src="assets/tensorflow.png" alt="tensorflow"></a>
 
-
-You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).
-For local usage just download [Jekyll](http://jekyllrb.com/), use installation guide for more. You can download latest Biscuit from [its Github repository](https://github.com/sblisesivdin/biscuit).
-
-If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
