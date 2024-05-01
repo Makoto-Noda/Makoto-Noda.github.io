@@ -2,10 +2,12 @@
 layout: default
 ---
 
-![Banner](assets/biscuit.png)
+{: align="center"}
+![Banner](assets/face.png)
 
-
-**[Biscuit](http://sblisesivdin.github.io/biscuit)** test test test 
+{: align="center"}
+Makoto Noda
+(Job applicant / ML engeneer wannabe)
 
 ## Usage
 
