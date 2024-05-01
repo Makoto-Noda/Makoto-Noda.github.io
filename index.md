@@ -29,7 +29,14 @@ layout: default
 - マナビDX Quest 2023年度 第1ターム<br>ケーススタディ教育プログラムGold修了
 
 ## Skills
-[![python](assets/python.png)](https://www.python.org/)[![sklearn](assets/sklearn.png)](https://scikit-learn.org/)[![pandas](assets/pandas.png)](https://pandas.pydata.org/)[![opencv](assets/opencv.png)](https://opencv.org/)[![keras](assets/keras.png)](https://keras.io/)[![keras](assets/keras.png)](https://www.tensorflow.org/)
+<p>
+[![python](assets/python.png)](https://www.python.org/)
+[![sklearn](assets/sklearn.png)](https://scikit-learn.org/)
+[![pandas](assets/pandas.png)](https://pandas.pydata.org/)
+[![opencv](assets/opencv.png)](https://opencv.org/)
+[![keras](assets/keras.png)](https://keras.io/)
+[![keras](assets/tensorflow.png)](https://www.tensorflow.org/)
+</p>
 
 
 You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).
