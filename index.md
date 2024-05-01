@@ -13,7 +13,8 @@ layout: default
 <br>
 
 ## Portfolio
-**[深層学習による臓器損傷検出AIシステム](https://github.com/Makoto-Noda/RSNA2023/blob/main/(発表資料)臓器損傷検出.pdf)**
+　　　　**[深層学習による臓器損傷検出AIシステム](https://github.com/Makoto-Noda/RSNA2023/blob/main/(発表資料)臓器損傷検出.pdf)**
+{: align="center"}
 ![RSNA2023](assets/rsna.png)
 
 ## Qualifications
