@@ -26,6 +26,9 @@ layout: default
 - [Googleアナリティクス認定資格](https://developers.google.com/analytics/)
 - [普通自動車第一種運転免許（AT限定）](https://ja.wikipedia.org/wiki/オートマチック限定免許)
 - [訪問介護員2級](https://www.e-nichii.net/kaigo/kaigosyoninsya/column/07605.html)
+<br>
+
+- [基本情報技術者試験（近日取得予定）](https://www.ipa.go.jp/shiken/kubun/fe.html)
 
 ## Training Programs
 - [マナビDX Quest 2023年度 第1ターム<br>ケーススタディ教育プログラムGold修了](https://dxq.manabi-dx.ipa.go.jp/)
