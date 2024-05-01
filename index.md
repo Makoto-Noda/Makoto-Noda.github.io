@@ -19,17 +19,17 @@ layout: default
 ![TPL0721](assets/tpl.png)
 
 ## Qualifications
-- **統計検定2級**
-- **TOEIC Listening & Reading　スコア890点**
-- **Googleアナリティクス認定資格**
-- **普通自動車第一種運転免許（AT限定）**
-- **訪問介護員2級**
+- 統計検定2級
+- TOEIC Listening & Reading　スコア890点
+- Googleアナリティクス認定資格
+- 普通自動車第一種運転免許（AT限定）
+- 訪問介護員2級
 
 ## Training Programs
-- **マナビDX Quest 2023年度 第1ターム ケーススタディ教育プログラムGold修了**
+- マナビDX Quest 2023年度 第1ターム  ケーススタディ教育プログラムGold修了
 
 ## Skills
-
+[![python](assets/python.png)](https://www.python.org/)[![sklearn](assets/sklearn.png)](https://scikit-learn.org/)[![pandas](assets/pandas.png)](https://pandas.pydata.org/)[![opencv](assets/opencv.png)](https://opencv.org/)[![keras](assets/keras.png)](https://keras.io/)[![keras](assets/keras.png)](https://www.tensorflow.org/)
 
 
 You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).
