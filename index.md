@@ -29,7 +29,5 @@ layout: default
 - マナビDX Quest 2023年度 第1ターム<br>ケーススタディ教育プログラムGold修了
 
 ## Skills
-<div>
-<a href="https://www.python.org/"><img src="assets/python.png" alt="python"></a> <a href="https://scikit-learn.org/"><img src="assets/sklearn.png" alt="sklearn"></a> <a href="https://pandas.pydata.org/"><img src="assets/pandas.png" alt="pandas"></a> <a href="https://opencv.org/"><img src="assets/opencv.png" alt="opencv"></a> <a href="https://keras.io/"><img src="assets/keras.png" alt="keras"></a> <a href="https://www.tensorflow.org/"><img src="assets/tensorflow.png" alt="tensorflow"></a>
-</div>
+|[![python](assets/python.png)](https://www.python.org/)|[![sklearn](assets/sklearn.png)](https://scikit-learn.org/)|[![pandas](assets/pandas.png)](https://pandas.pydata.org/)|[![opencv](assets/opencv.png)](https://opencv.org/)|[![keras](assets/keras.png)](https://keras.io/)|[![keras](assets/tensorflow.png)](https://www.tensorflow.org/)|
 
