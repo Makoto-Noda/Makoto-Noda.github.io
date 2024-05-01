@@ -32,9 +32,9 @@ layout: default
 <table>
     <tr>
         <th><a href="https://www.python.org/"><img src="assets/python.png" alt="python"></a></th>
-        <th>[![sklearn](assets/sklearn.png)](https://scikit-learn.org/)</th>
-        <th>[![pandas](assets/pandas.png)](https://pandas.pydata.org/)</th>
-        <th>[![opencv](assets/opencv.png)](https://opencv.org/)</th>
+        <th><a href="https://scikit-learn.org/"><img src="assets/sklearn.png" alt="sklearn"></a></th>
+        <th><a href="https://pandas.pydata.org/"><img src="assets/pandas.png" alt="pandas"></a></th>
+        <th><a href="https://opencv.org/"><img src="assets/opencv.png" alt="opencv"></a></th>
         <th>[![keras](assets/keras.png)](https://keras.io/)</th>
         <th>[![keras](assets/tensorflow.png)](https://www.tensorflow.org/)</th>
     </tr>
