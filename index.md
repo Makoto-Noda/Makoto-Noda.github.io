@@ -31,8 +31,8 @@ layout: default
 ## Skills
 <table>
     <tr>
-        <th><a href="https://www.python.org/"><img src="assets/python.png" alt="python"></a></th>
-        <th><a href="https://scikit-learn.org/"><img src="assets/sklearn.png" alt="sklearn"></a></th>
+        <th><a href="https://www.python.org/"><img src="https://github.com/Makoto-Noda/Makoto-Noda.github.io/blob/main/assets/python.png" alt="python"></a></th>
+        <th><a href="https://scikit-learn.org/"><img src="https://github.com/Makoto-Noda/Makoto-Noda.github.io/blob/main/assets/sklearn.png" alt="sklearn"></a></th>
         <th><a href="https://pandas.pydata.org/"><img src="assets/pandas.png" alt="pandas"></a></th>
         <th><a href="https://opencv.org/"><img src="assets/opencv.png" alt="opencv"></a></th>
         <th>[![keras](assets/keras.png)](https://keras.io/)</th>
