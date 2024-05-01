@@ -26,7 +26,7 @@ layout: default
 - 訪問介護員2級
 
 ## Training Programs
-- マナビDX Quest 2023年度 第1ターム  ケーススタディ教育プログラムGold修了
+- マナビDX Quest 2023年度 第1ターム<br>ケーススタディ教育プログラムGold修了
 
 ## Skills
 [![python](assets/python.png)](https://www.python.org/)[![sklearn](assets/sklearn.png)](https://scikit-learn.org/)[![pandas](assets/pandas.png)](https://pandas.pydata.org/)[![opencv](assets/opencv.png)](https://opencv.org/)[![keras](assets/keras.png)](https://keras.io/)[![keras](assets/keras.png)](https://www.tensorflow.org/)
