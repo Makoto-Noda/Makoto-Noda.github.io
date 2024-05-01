@@ -31,7 +31,7 @@ layout: default
 ## Skills
 <table>
     <tr>
-        <th>[![python](assets/python.png)](https://www.python.org/)</th>
+        <th><a href="https://www.python.org/"><img src="assets/python.png" alt="python"></a></th>
         <th>[![sklearn](assets/sklearn.png)](https://scikit-learn.org/)</th>
         <th>[![pandas](assets/pandas.png)](https://pandas.pydata.org/)</th>
         <th>[![opencv](assets/opencv.png)](https://opencv.org/)</th>
