@@ -9,9 +9,11 @@ layout: default
 **Makoto Noda**  
 (Job applicant / ML engineer wannabe)
 
+<br>
+
 [![github](assets/github.png)](https://github.com/Makoto-Noda)
 
-<br>
+
 <br>
 
 ## Portfolio
