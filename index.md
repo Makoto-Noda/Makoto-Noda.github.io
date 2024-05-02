@@ -19,6 +19,8 @@ layout: default
 ![RSNA2023](assets/rsna.png)
 - **[大気汚染物質の時系列予測](https://github.com/Makoto-Noda/TPL0721/blob/main/(発表資料)大気汚染物質予測.pdf)**
 ![TPL0721](assets/tpl.png)
+- **[セルフレジ用商品識別システム](https://github.com/Makoto-Noda/YOLO/blob/main/デモインターン.pdf)**
+![YOLO](assets/demointern.png)
 
 ## Qualifications
 - [統計検定2級](https://www.toukei-kentei.jp/exam/grade2/)
