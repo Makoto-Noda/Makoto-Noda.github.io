@@ -7,7 +7,7 @@ layout: default
 
 {: align="center"}
 **Makoto Noda**  
-(Job applicant / ML engineer wannabe)
+(Job applicant)
 
 <br>
 
