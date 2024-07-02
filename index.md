@@ -26,7 +26,7 @@ layout: default
 
 ## Qualifications
 - [統計検定2級](https://www.toukei-kentei.jp/exam/grade2/)
-- [TOEIC Listening & Reading　スコア890点](https://www.iibc-global.org/toeic.html)
+- [TOEIC Listening & Reading　スコア890](https://www.iibc-global.org/toeic.html)
 - [Googleアナリティクス認定資格](https://developers.google.com/analytics/)
 - [普通自動車第一種運転免許（AT限定）](https://ja.wikipedia.org/wiki/オートマチック限定免許)
 - [訪問介護員2級](https://www.e-nichii.net/kaigo/kaigosyoninsya/column/07605.html)
