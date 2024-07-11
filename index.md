@@ -22,6 +22,7 @@ layout: default
 [![TPL0721](assets/tpl.png)](https://github.com/Makoto-Noda/TPL0721/blob/main/(発表資料)大気汚染物質予測.pdf)<br>
 - **[深層学習による臓器損傷検出AIシステム(2023/10)](https://github.com/Makoto-Noda/RSNA2023/blob/main/(発表資料)臓器損傷検出.pdf)**
 [![RSNA2023](assets/rsna.png)](https://github.com/Makoto-Noda/RSNA2023/blob/main/(発表資料)臓器損傷検出.pdf)
+- **[Neuro Dive横浜卒業発表資料(2024/7)](https://github.com/Makoto-Noda/Makoto-Noda.github.io/blob/main/卒業報告.pdf)**
 
 ## Qualifications
 - [基本情報技術者試験](https://www.ipa.go.jp/shiken/kubun/fe.html)
